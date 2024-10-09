@@ -14,4 +14,4 @@ This project uses machine learning to predict housing prices based on the Ames H
 ## Contact
 Amirhosein Vakili - amirhosein7210@gmail.com
 
-Project Link: https://github.com/your-username/housing-price-prediction
+Project Link: https://github.com/amirhvakili/housing-price-prediction
