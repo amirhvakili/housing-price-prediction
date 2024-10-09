@@ -10,3 +10,7 @@ Setup and Usage
 Clone this repository
 Install required packages: pip install -r requirements.txt
 Open and run the Jupyter notebook housing_price_prediction.ipynb
+
+Contact
+Amirhosein Vakili - Amirhosein7210@gmail.com
+Project Link: https://github.com/amirhvakili/housing-price-prediction
