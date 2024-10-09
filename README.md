@@ -11,13 +11,7 @@ This project uses machine learning to predict housing prices based on the Ames H
 2. Install required packages: `pip install -r requirements.txt`
 3. Open and run the Jupyter notebook `housing_price_prediction.ipynb`
 
-## Results
-[Briefly describe your model's performance and key findings]
-
-## Future Work
-[Mention any plans for improving the model or extending the project]
-
 ## Contact
-[Your Name] - [Your Email]
+Amirhosein Vakili - amirhosein7210@gmail.com
 
 Project Link: https://github.com/your-username/housing-price-prediction
